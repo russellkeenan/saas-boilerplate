@@ -79,11 +79,11 @@ dev = [
     "pydoc-markdown[novella]>=4.6.4",
 ]
 [project]
-name = ""
-version = ""
-description = ""
+name = "backend"
+version = "1.0"
+description = "Backend application for TradingViewWebhooks"
 authors = [
-    {name = "", email = ""},
+    {name = "Russell", email = "russell.keenan@gmail.com"},
 ]
 dependencies = [
     "boto3~=1.23",
